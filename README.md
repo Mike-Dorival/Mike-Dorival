@@ -1,18 +1,21 @@
-### Hi there 👋
+### <div align="center">Hi there 👋</div> 
 
+### <div align="center">I'm Mike, a frontend developer 🚀 from France 🇫🇷 </div>  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<a href="https://github.com/Mike-Dorival" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/Mike-Dorival" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 </div>  
-  
-
-### <div align="center">I'm Mike, a frontend developer 🚀 from france :france: </div>  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<div valign="top" width="50%">
 
 
 
@@ -29,7 +32,7 @@
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="60%">
 
 
 
@@ -44,21 +47,8 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Mike-Dorival" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Mike-Dorival" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
